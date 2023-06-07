@@ -1,0 +1,8 @@
+name: ItemForceBattle
+version: '${project.version}'
+main: samann.itemforcebattle.ItemForceBattle
+api-version: 1.19
+commands:
+  start:
+  end:
+  skip:
